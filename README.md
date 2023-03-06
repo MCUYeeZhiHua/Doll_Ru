@@ -2,9 +2,9 @@
 
 -cd desktop
 
--git clone https://github.com/MCUYeeZhiHua/2022graphics1
+-git clone https://github.com/MCUYeeZhiHua/Doll_Ru
 
--cd 2022graphics1
+-cd Doll_Ru
 
 -git status
 
@@ -16,7 +16,7 @@
 
 -git config --global user.name "MCUYeeZhiHua"
 
--git commit -m"add week12"
+-git commit -m"add date"
 
 -git push
 
