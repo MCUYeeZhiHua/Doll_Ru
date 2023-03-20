@@ -9,4 +9,8 @@ public class playvideo : MonoBehaviour
     {
         SceneManager.LoadScene("video");
     }
+    public void Scenes()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
 }
